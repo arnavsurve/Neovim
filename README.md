@@ -1,6 +1,8 @@
 # Neovim
 **My neovim configuration:**
 
+Moonfly Colorscheme
+
 Autopairs
 
 Comments
